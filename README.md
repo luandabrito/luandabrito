@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Para acessar meus projetos de cursos feitos na plataforma alura, acesse minha organização "luandabritoalura": https://github.com/luandabritoalura
+Para acessar meus projetos antigos da epóca da faculdade, acesse minha organização "luandabritoantigos": https://github.com/luandabritoantigos
+
 <!--
 **luandabrito/luandabrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
