@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-- Para acessar meus projeto referentes ao curso de Especialização em Java na UTFPR, acesse minha organização "luandabritoutfpr": https://github.com/luandabritoutfpr
+- Para acessar meus projeto referentes ao curso de Especialização em Java na UTFPR, acesse minha organização [luandabritoutfpr](https://github.com/orgs/luandabritoutfpr/repositories)
+- Para acessar meus projetos de cursos feitos na plataforma alura, acesse minha organização [luandabritoalura](https://github.com/orgs/luandabritoalura/repositories)
 
-- Para acessar meus projetos de cursos feitos na plataforma alura, acesse minha organização "luandabritoalura": https://github.com/luandabritoalura
-
-- Para acessar meus projetos antigos da epóca da faculdade, acesse minha organização "luandabritoantigos": https://github.com/luandabritoantigos
+- Para acessar meus projetos antigos da epóca da faculdade, acesse minha organização [luandabritoantigos](https://github.com/orgs/luandabritoantigos/repositories)
 
 <!--
 **luandabrito/luandabrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
